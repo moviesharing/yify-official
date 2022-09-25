@@ -10,7 +10,7 @@ export default class Navbar extends Component {
         return (
             <div>
                 <Header>
-                <div className="logo"><Link to="/">YIFY CLONE</Link></div>
+                <div className="logo"><Link to="/">Movie Links</Link></div>
                 <Menu
                     theme="light"
                     mode="horizontal"
